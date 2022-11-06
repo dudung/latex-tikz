@@ -1,5 +1,5 @@
 # latex-tikz
-latex tikz with tikzjax
+latex tikz tested with tikzjax
 
 
 ## refs
