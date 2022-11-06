@@ -8,3 +8,4 @@ latex tikz with tikzjax
 3. "TikZ and PGF examples", url https://texample.net/tikz/examples/ [20221106].
 4. "TikZ.net Graphics with TikZ in LaTeX", url https://tikz.net/ [20221106].
 5. Christoph Mahlke, "Tikz online editor", Pickedshares, 2022, url https://pickedshares.com/en/tikz-online-editor/ [20221106].
+6. Jim Fowler, "TikZJax", GitHub, 3 Jan 2022, url https://github.com/kisonecat/tikzjax [20221106].
